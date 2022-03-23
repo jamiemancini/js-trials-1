@@ -91,7 +91,7 @@ def has_balanced_parens(string):
 
 def compress(string):
     """compress the string to include number"""
-    # pass  # TODO: replace this line with your code
+    
     compressed = []
     curr_char = ''
     char_count = 0
